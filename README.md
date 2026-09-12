@@ -1,2 +1,17 @@
-# Data-Analysis-Dashboard
-This repository contains an interactive HR Analytics Dashboard built in Power BI, designed to help HR teams and business leaders monitor workforce composition, attrition trends, and organizational health through a single consolidated view. It converts raw HR data into actionable insights via dynamic slicers, KPI cards, and drill-down visuals.
+
+# HR Analytics Dashboard
+
+An interactive Power BI dashboard designed to analyze employee turnover, workforce demographics, and organizational performance metrics to drive data-informed HR strategies.
+
+## Overview
+This project visualizes key workforce metrics for an organization of **1,417 employees**, tracking an active headcount of **1,186** and analyzing **231 departures** (**16.3% attrition rate**). 
+
+## Key Insights
+* **Department Insights:** Operations (36%) and Sales (23%) experience the highest volume of attrition.
+* **Tenure Vulnerability:** Departures peak sharply during early career stages (1–5 years of experience).
+* **Role & Satisfaction:** Laboratory Technicians account for the highest individual role turnover (59 employees), with strong correlation to lower job satisfaction ratings.
+* **Demographics:** The workforce predominantly sits in the 26–35 age bracket (588 employees), with an average organizational age of 36.94 years.
+
+## Tools Used
+* **Power BI Desktop:** Data modeling, DAX measures, and visual report design.
+* **Power Query:** Data transformation, cleaning, and ETL processing.
