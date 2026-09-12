@@ -15,3 +15,20 @@ This project visualizes key workforce metrics for an organization of **1,417 emp
 ## Tools Used
 * **Power BI Desktop:** Data modeling, DAX measures, and visual report design.
 * **Power Query:** Data transformation, cleaning, and ETL processing.
+
+# KPI Questions
+What is the total number of employees in the organization?
+How many employees are currently active?
+How many employees have left the organization?
+What is the overall employee attrition rate?
+What is the average age of employees?
+What is the average work experience of employees?
+Which department has the highest number of employees?
+Which department has the highest number of attrition cases?
+Which salary slab has the highest attrition?
+Which age group has the highest number of employees?
+Which gender has the higher number of attrition cases?
+Which job roles have the highest attrition?
+Which job satisfaction level has the highest number of attrition cases?
+How does employee experience relate to attrition?
+Which departments should HR prioritize for employee retention?
