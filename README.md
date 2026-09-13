@@ -49,6 +49,6 @@ Which departments should HR prioritize for employee retention?
 12. **Deployment** – Published to Power BI Service and shared with stakeholders.
 13. **Documentation** – Recorded data sources, DAX logic, and usage notes.
 
-#Dashboard
-<img width="1380" height="768" alt="Screenshot 2026-09-12 151826" src="https://github.com/user-attachments/assets/573096e0-b647-4773-bea8-f6415c67c1df" />
-
+# Screenshot/Demo
+Show what the dashboard looks like.
+Example:
