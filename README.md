@@ -50,5 +50,5 @@ Which departments should HR prioritize for employee retention?
 13. **Documentation** – Recorded data sources, DAX logic, and usage notes.
 
 # Screenshot/Demo
-Show what the dashboard looks like.
-Example:
+Show what the dashboard looks like. - ![Alt text](https://github.com/dataxkrishna/Data-Analysis-Dashboard/blob/main/Screenshot%202026-09-12%20151826.png)
+Example: ![Dashboard Preview].(https://github.com/dataxkrishna/Data-Analysis-Dashboard/blob/main/Screenshot%202026-09-12%20151826.png)
