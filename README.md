@@ -33,7 +33,7 @@ Which job satisfaction level has the highest number of attrition cases?,
 How does employee experience relate to attrition?,
 Which departments should HR prioritize for employee retention?
 
-# Project Process (Short Version)
+# Project Process 
 
 1. **Requirement Gathering** – Identified HR KPIs needed (attrition, headcount, satisfaction, demographics).
 2. **Data Collection** – Gathered employee data (department, salary, age, experience, attrition status).
